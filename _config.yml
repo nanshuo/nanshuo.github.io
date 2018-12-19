@@ -7,6 +7,7 @@ language:
 - zh-cn
 - en
 
+avatarImage: https://avatars1.githubusercontent.com/u/2942042?s=460&v=4
 timezone:
 
 # URL
@@ -43,6 +44,12 @@ highlight:
   line_number: false
   auto_detect: true
   tab_replace:
+
+
+leftPagesMenu:
+- uri: about
+  title: 关于
+  faName: fa-question-circle
 
 # Category & Tag
 default_category: 技术
