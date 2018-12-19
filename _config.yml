@@ -45,6 +45,9 @@ highlight:
   auto_detect: true
   tab_replace:
 
+menu:
+   编程: programming
+   人文: humanities
 
 leftPagesMenu:
 - uri: about
