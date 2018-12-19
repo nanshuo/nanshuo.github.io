@@ -1,5 +1,5 @@
-# 楠说
+# This is a site backup for shuoit.net 
 
-> 志在安楠，与子成说
+Hi, this is hexo-theme-jsimple sample website.
 
-**Forever**
+You can click here(https://shuoit.net) to visit.
