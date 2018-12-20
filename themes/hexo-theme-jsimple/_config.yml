@@ -1,0 +1,49 @@
+# site name
+siteName: 安南说
+shortName: 说
+
+fullHttps: true
+
+favicon: /favicon.ico
+avatarShow: false
+avatarImage: /favicon.ico
+
+homePageSortType: -1
+homeArticleShown: 10
+
+siteBuildingTime: 13/07/2017
+
+menu:
+   编程: 编程
+   人文: 人文
+   随笔: 随笔
+
+leftPagesMenu:
+- uri: about
+  title: 关于
+  faName: fa-question-circle
+
+coverTitle: 你我的余生都在这里!
+coverDescription: 不把生命献给无知、平庸和低俗!
+
+sns:
+  telegram: http://t.me/jiusanzhou
+  instagram: https://www.instagram.com/jiusanzhou
+  twitter: https://twitter.com/jiusanzhou
+  github: https://github.com/jiusanzhou
+  weibo: https://weibo.com/jsz3
+
+postDeclare: 本文内容与「好好工作」出品无关。本文代表个人观点，内容仅供参考。若有不恰当之处，望斧正！
+
+gitment:
+  enable: false
+  githubID:
+  repo:
+  ClientID:
+  ClientSecret:
+  lazy: true
+
+disqus_shortname: annantk
+
+tentcentAnalyticsId:
+googleAnalyticsId: UA-101239170-2

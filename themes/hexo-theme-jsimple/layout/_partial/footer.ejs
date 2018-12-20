@@ -1,0 +1,16 @@
+<footer class="footer">
+    <div class="footer-inner">
+        <p>
+            <a href="/about"  title="<%= __('about') %>"><%= __('about') %></a>&nbsp;&nbsp<em>·</em>&nbsp;&nbsp
+            <!-- 自定义链接 -->
+            <a href="https://1hour.me" title="1小时">1小时</a>&nbsp;&nbsp<em>·</em>&nbsp;&nbsp
+            <a href="https://wellwell.work" title="好好工作">好好工作</a>
+        </p>
+        <p>
+            本站点采用<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>，已建立<a href="/timeline" id="siteBuildingTime"></a>天<br/>
+            ©2017
+        </p>
+        <%- partial('_widget/site-analytics') %>
+    </div>
+</footer>
+<%- js(['js/InsightSearch','js/SimpleCore']) %>
